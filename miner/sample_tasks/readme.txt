@@ -6,6 +6,7 @@ This directory contains per-competition task dumps.
 Competition folders
 -------------------
 
+- CoT-Compression-1
 - Context-Compression-1
 - Context-Compression-2
 - Context-Compression-3
