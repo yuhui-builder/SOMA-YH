@@ -130,3 +130,7 @@ dmypy.json
 *.swp
 *.swo
 *~
+research/
+chats/
+miner/sample_results/
+.claude/
